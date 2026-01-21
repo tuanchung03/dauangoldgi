@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     // 🔴 BẮT BUỘC khi deploy GitHub Pages
-    base: '/dauangoldgi/',
+    base: '/dauan-goldgi/',
 
     server: {
       port: 3000,

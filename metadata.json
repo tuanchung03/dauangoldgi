@@ -1,0 +1,7 @@
+{
+  "name": "Dấu Ấn Goldgi - Bưu Thiếp Ký Hoạ",
+  "description": "Ứng dụng tạo bưu thiếp ký hoạ cá nhân hoá với AI tách nền và xác thực OTP ZNS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
